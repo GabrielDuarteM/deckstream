@@ -31,7 +31,7 @@
     "simple-ws-wrapper": "1.0.1",
     "styled-components": "4.2.0",
     "typeface-roboto": "0.0.54",
-    "ws": "6.2.1"
+    "ws": "7.4.3"
   },
   "browserslist": [
     "last 1 Chrome versions"
